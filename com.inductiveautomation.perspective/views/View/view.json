@@ -30,6 +30,18 @@
           "path": "material/file_copy"
         },
         "type": "ia.display.icon"
+      },
+      {
+        "meta": {
+          "name": "Label_0"
+        },
+        "position": {
+          "basis": "600px"
+        },
+        "props": {
+          "text": "  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam volutpat placerat dolor sed egestas. Suspendisse vestibulum tempus suscipit. Donec accumsan tellus ac euismod pretium. Nulla condimentum scelerisque turpis, sed maximus nisi pharetra in. Sed blandit augue metus, in cursus metus interdum in. Quisque dictum ornare augue in interdum. Aenean molestie et felis eget tempor. Sed sed ornare erat. Praesent lobortis non tellus a laoreet. Nam nec ullamcorper dui, vitae molestie leo. Phasellus gravida malesuada lorem, pulvinar convallis nisi. Aliquam posuere eu erat convallis scelerisque.  Pellentesque nunc dolor, semper a urna sed, eleifend lacinia libero. Nunc auctor odio leo, a iaculis ipsum feugiat nec. Phasellus non ullamcorper quam, vel tristique dui. Mauris justo augue, pretium et volutpat et, ultrices eget tellus. Curabitur ut condimentum nunc. Mauris ut facilisis magna. Donec rhoncus ipsum nec purus varius, sed pulvinar mi consectetur. Quisque nisi arcu, gravida ac nulla id, maximus suscipit massa. Morbi pharetra magna dictum iaculis tempus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;  Vestibulum id justo vehicula dolor imperdiet tempus vel eget diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam nec scelerisque purus. Aenean suscipit malesuada diam non gravida. Pellentesque posuere, ante vel suscipit tincidunt, justo augue tristique mi, non facilisis diam nunc eu lorem. Sed ac ligula leo. Sed in est ut nulla varius tincidunt. Aliquam est urna, accumsan sit amet nisi a, facilisis molestie lorem. Nunc volutpat est et erat vulputate rhoncus. Sed sed hendrerit libero, sit amet consequat ipsum.  Nam volutpat eu ex sit amet sagittis. Donec eget mollis ex. Aliquam rhoncus, velit sit amet consequat lacinia, nulla sapien pellentesque ante, eu ultricies lorem nisl ac dui. Praesent non metus non massa fermentum lobortis. Pellentesque quis odio nunc. Vestibulum vestibulum lectus et purus pretium tempus. Nullam in placerat tortor, eget semper mauris. Vivamus a dapibus ligula, ac consequat tortor.  Fusce efficitur, massa dapibus malesuada tincidunt, nisl dolor commodo ligula, a tristique augue orci porta sem. Nam auctor risus sed est faucibus sodales. Nullam aliquet et augue ut efficitur. Nulla non augue a ligula ultrices finibus. Nullam interdum metus eget nisl gravida elementum. Proin condimentum, lorem non maximus placerat, libero erat mollis orci, eu suscipit mi massa vel lacus. Donec condimentum vel arcu nec sagittis. Nulla luctus dui eu sollicitudin dictum. "
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
