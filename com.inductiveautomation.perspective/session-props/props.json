@@ -55,6 +55,6 @@
     "device": {},
     "geolocation": {},
     "locale": "fr-FR",
-    "timeZoneId": "Europe/Paris"
+    "timeZoneId": "Etc/UTC"
   }
 }
