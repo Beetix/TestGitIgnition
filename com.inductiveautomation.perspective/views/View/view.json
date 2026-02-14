@@ -12,7 +12,7 @@
           "basis": "80px"
         },
         "props": {
-          "text": "Test Git - Hello master claude",
+          "text": "Test Git - Hello master",
           "textStyle": {
             "fontSize": "2em"
           }
