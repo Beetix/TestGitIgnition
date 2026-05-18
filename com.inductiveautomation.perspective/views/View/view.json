@@ -42,6 +42,18 @@
           "text": "New button"
         },
         "type": "ia.input.button"
+      },
+      {
+        "meta": {
+          "name": "Label_1"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "text": "Migrated!!!"
+        },
+        "type": "ia.display.label"
       }
     ],
     "meta": {
