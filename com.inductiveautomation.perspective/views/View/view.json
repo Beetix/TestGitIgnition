@@ -12,7 +12,7 @@
           "basis": "80px"
         },
         "props": {
-          "text": "Test Git - Hello Gitlab",
+          "text": "Test Git - Hello Gitlab 2",
           "textStyle": {
             "fontSize": "2em"
           }
